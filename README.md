@@ -66,8 +66,20 @@
 
 [392.判断子序列](./392.判断子序列.py)
 
-# 2023.7.19 Practice totally 
+# 2023.7.19 Practice totally
 
 [insert sort](./insert_sort.py)
 
 [shell sort](./shell_sort.py)
+
+[heap sort](./heap_sort.py)
+
+[merge sort](./merge_sort.py)
+
+[bubble_sort](./bubble_sort.py)
+
+[quick sort](./quick_sort.py)
+
+[selsec sort](./select_sort.py)
+
+[sort test 排序1000个随机元素效率](./sort_test.py)
