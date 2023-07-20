@@ -65,3 +65,9 @@
 [209.长度最小的子数组](./209.长度最小的子数组.py)
 
 [392.判断子序列](./392.判断子序列.py)
+
+# 2023.7.19 Practice totally 
+
+[insert sort](./insert sort.py)
+
+[shell sort](./shell sort.py)
