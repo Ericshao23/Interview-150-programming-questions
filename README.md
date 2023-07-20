@@ -68,6 +68,6 @@
 
 # 2023.7.19 Practice totally 
 
-[insert sort](./insert sort.py)
+[insert sort](./insert_sort.py)
 
-[shell sort](./shell sort.py)
+[shell sort](./shell_sort.py)
