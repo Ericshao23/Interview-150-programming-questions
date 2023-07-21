@@ -66,7 +66,7 @@
 
 [392.判断子序列](./392.判断子序列.py)
 
-# 2023.7.19 Practice totally
+# 2023.7.20 Practice totally 7
 
 [insert sort](./insert_sort.py)
 
